@@ -10,3 +10,5 @@ More anarchy is loosed upon the world
 The blood-dimmed tide is loosed, and everywhere
 
 The ceremony of innocence is drowned
+
+Random lines added tot he poem, not sure its really a very good poem to be honest, I profer 'If'
