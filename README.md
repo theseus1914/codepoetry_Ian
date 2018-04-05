@@ -10,5 +10,8 @@ More anarchy is loosed upon the world
 The blood-dimmed tide is loosed, and everywhere
 
 The ceremony of innocence is drowned
+<<<<<<< HEAD
 
 Error to be added
+=======
+>>>>>>> parent of 61f57c6... To be reverted
